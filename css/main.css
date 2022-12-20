@@ -1,10 +1,25 @@
-.font{
-    color: rgb(1, 46, 2);
+.title{
+    color: rgb(1, 45, 13);
     font-family: 'Comfortaa';
     font-size: 300%;
 }
-.font2{
-color: rgb(0, 58, 15);
-font-size: 150%;
+.header{
+color: rgb(1, 45, 13);
+font-size: 240%;
 font-family: 'Comfortaa';
 }
+.subheader{
+    color: rgb(1, 45, 13);
+    font-size: 180%;
+    font-family: 'Comfortaa';
+}
+.text{
+    color: rgb(1, 45, 13);
+    font-size: 150%;
+    font-family: 'Comfortaa';
+ }
+ .cat{
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+  }
